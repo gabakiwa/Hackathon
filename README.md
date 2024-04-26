@@ -5,6 +5,6 @@
 `Integrantes: Amanda Pageú Silva, Gabriel Akira Wakavaiachi e Renan Yudi Fukumori`
              
 - Link para Código: https://colab.research.google.com/drive/1P7EtRSQFhTYdtw6444ziUyVkZWtBE4cy?usp=sharing
-- Link para Documentação:
+- Link para Documentação: https://colab.research.google.com/drive/1P7EtRSQFhTYdtw6444ziUyVkZWtBE4cy?usp=sharing 
 - Link para Vídeo de Apresentação (complemento da Documentação):
 - Link para Apresentação (complemento da Documentação):
